@@ -1,0 +1,53 @@
+nodedef>name VARCHAR,username VARCHAR,label VARCHAR,category VARCHAR,post_activity FLOAT,fan_count INT,talking_about_count INT,users_can_post VARCHAR,link VARCHAR
+660933270687803,,"Star Wars The Force Awakens",Movie,0.04,54803,1410,yes,https://www.facebook.com/Star-Wars-The-Force-Awakens-660933270687803/
+409225409408744,StarWarsTheForceWillBeWithYou,"Star Wars - May The Force Be With You",Movie,0.02,337,16,yes,https://www.facebook.com/StarWarsTheForceWillBeWithYou/
+1332320606828671,SWTLJ,"Star Wars The Last Jedi",Movie,0.04,11667,276,yes,https://www.facebook.com/SWTLJ/
+632258310249613,buildyourownR2D2JC3D,"JCulley3D R2D2 Prop Replica Build","Personal Blog",0,243,0,yes,https://www.facebook.com/buildyourownR2D2JC3D/
+861266993933757,judescpawarenesspage,"My AFOs are really Lightsabers - Jude's Cerebral Palsy Awareness","Personal Blog",0,410,0,yes,https://www.facebook.com/judescpawarenesspage/
+457981837637776,NewStarWarsPage,"The New Star Wars",Movie,0.02,6099,129,yes,https://www.facebook.com/NewStarWarsPage/
+775459942465759,mysagadocumentary,"My Saga",Movie,0.01,5973,9,yes,https://www.facebook.com/mysagadocumentary/
+201353109983331,NerdSpree,"RPG Gamers Unite","Just For Fun",0.01,6545,294,yes,https://www.facebook.com/NerdSpree/
+512349762164681,geeksgamesandgirls,"Geeks  Girls and Games",Art,0.01,48862,46,yes,https://www.facebook.com/geeksgamesandgirls/
+420076791443201,MobleyStarWarsHolonet,"The Star Wars HoloNet","Entertainment Website",0.02,34825,47,yes,https://www.facebook.com/MobleyStarWarsHolonet/
+1398426790385648,infin8fandomsw,"Infinite Fandom: Star Wars","Entertainment Website",0.09,26217,521,yes,https://www.facebook.com/infin8fandomsw/
+237774853076928,WolfmansComicalDatingExperience,"Living Single",Community,0.02,7047,1266,yes,https://www.facebook.com/WolfmansComicalDatingExperience/
+231114887043550,,"Once upon a time on planet Earth",Community,0.01,12819,17,yes,https://www.facebook.com/Once-upon-a-time-on-planet-Earth-231114887043550/
+613228692127668,LegendsUSA,"Living Legends",Community,0.02,9432,88,yes,https://www.facebook.com/LegendsUSA/
+1571682676384558,,"Star Wars: The Force Awakens fanclub",Movie,0,1391,0,yes,https://www.facebook.com/Star-Wars-The-Force-Awakens-fanclub-1571682676384558/
+848391138600576,infin8fandom,"Infinite Fandom:Initiative",Website,1.08,104890,12750,yes,https://www.facebook.com/infin8fandom/
+789092047781525,,"Nerdy like me",Community,0.11,51040,8358,yes,https://www.facebook.com/Nerdy-like-me-789092047781525/
+465269546909216,GeekyGamersUnite,"Geeky Gamers Unite",Community,0.19,68289,30068,yes,https://www.facebook.com/GeekyGamersUnite/
+300600480095294,ComicCrusaders,"Comic Crusaders",Entrepreneur,1.34,6740,113,yes,https://www.facebook.com/ComicCrusaders/
+186106198204335,NewGodsOfSuperTown,"New Gods of Super Town","Entertainment Website",0.51,154783,2761,yes,https://www.facebook.com/NewGodsOfSuperTown/
+edgedef>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN
+660933270687803,409225409408744,true
+660933270687803,1332320606828671,true
+660933270687803,632258310249613,true
+660933270687803,861266993933757,true
+660933270687803,457981837637776,true
+660933270687803,775459942465759,true
+660933270687803,201353109983331,true
+660933270687803,512349762164681,true
+660933270687803,420076791443201,true
+660933270687803,1398426790385648,true
+660933270687803,237774853076928,true
+660933270687803,231114887043550,true
+660933270687803,613228692127668,true
+660933270687803,1571682676384558,true
+660933270687803,848391138600576,true
+660933270687803,789092047781525,true
+660933270687803,465269546909216,true
+660933270687803,300600480095294,true
+660933270687803,186106198204335,true
+201353109983331,660933270687803,true
+201353109983331,201353109983331,true
+512349762164681,789092047781525,true
+512349762164681,660933270687803,true
+512349762164681,186106198204335,true
+420076791443201,1398426790385648,true
+420076791443201,660933270687803,true
+1398426790385648,848391138600576,true
+237774853076928,848391138600576,true
+237774853076928,789092047781525,true
+186106198204335,186106198204335,true
+186106198204335,848391138600576,true
