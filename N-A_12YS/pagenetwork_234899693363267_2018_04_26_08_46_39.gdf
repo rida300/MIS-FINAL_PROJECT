@@ -1,0 +1,333 @@
+nodedef>name VARCHAR,username VARCHAR,label VARCHAR,category VARCHAR,post_activity FLOAT,fan_count INT,talking_about_count INT,users_can_post VARCHAR,link VARCHAR
+234899693363267,twelveyearsaslave,"12 Years a Slave book",Book,0,416,2,yes,https://www.facebook.com/twelveyearsaslave/
+171691566268820,,"North Country Underground Railroad Historical Association & Museum",Museum,0,467,2,yes,https://www.facebook.com/North-Country-Underground-Railroad-Historical-Association-Museum-171691566268820/
+103144683131942,,"Dayo Okeniyi",Artist,0,5411,4,yes,https://www.facebook.com/Dayo-Okeniyi-103144683131942/
+146054782115958,amandlastenberg,"Amandla Stenberg",Artist,0.03,393647,937,yes,https://www.facebook.com/amandlastenberg/
+509444635896352,HughieBroadway,Hughie,"Performance Art Theatre",0,3147,1,no,https://www.facebook.com/HughieBroadway/
+122860367757540,ishrights,"International Solidarity for Human Rights","Nonprofit Organization",0.05,4677,40,no,https://www.facebook.com/ishrights/
+1666948206861500,MuhammadAliGreatestMyOwnStory,"Muhammad Ali The Greatest: My Own Story by Muhammad Ali and Richard Durham",Book,0,552,0,yes,https://www.facebook.com/MuhammadAliGreatestMyOwnStory/
+91899228932,thekingcenter,"The King Center","Nonprofit Organization",0.14,44092,5592,yes,https://www.facebook.com/thekingcenter/
+291979759818,SpikeLee,"Spike Lee",Producer,0.2,763041,3240,no,https://www.facebook.com/SpikeLee/
+42324160403,BET,BET,"TV Network",1.7,7399849,267899,yes,https://www.facebook.com/BET/
+14172074966,colorlines,Colorlines,"News & Media Website",0.15,217522,2019,yes,https://www.facebook.com/colorlines/
+198411110196040,NCOREconference,"National Conference on Race and Ethnicity","Nonprofit Organization",0,5407,15,yes,https://www.facebook.com/NCOREconference/
+359874484050697,NationalSeedProject,"National SEED Project",Education,0,2190,9,no,https://www.facebook.com/NationalSeedProject/
+167290796662123,,"Bronx Library Center  - NYPL",Library,0.01,2100,15,yes,https://www.facebook.com/Bronx-Library-Center-NYPL-167290796662123/
+152028411049,ApolloTheater,"Apollo Theater","Performance Art Theatre",0.03,209212,1543,no,https://www.facebook.com/ApolloTheater/
+458553937537912,rememberslavery,"Remember Slavery",Organization,0.02,5434,12,yes,https://www.facebook.com/rememberslavery/
+249063998455085,HarlemPride,"Harlem Pride","Nonprofit Organization",0.04,2707,99,yes,https://www.facebook.com/HarlemPride/
+661016237307124,diversebooks,"We Need Diverse Books","Nonprofit Organization",0.08,26278,1161,yes,https://www.facebook.com/diversebooks/
+666067886770001,,"Harlem Historical Society","Nonprofit Organization",0.01,1406,4,yes,https://www.facebook.com/Harlem-Historical-Society-666067886770001/
+10764587274,AlvinAileyAmericanDanceTheater,"Alvin Ailey American Dance Theater","Dance Studio",0.09,659444,9214,yes,https://www.facebook.com/AlvinAileyAmericanDanceTheater/
+515929695229834,upfromit,"Up From Slavery",Website,0.6,476243,14398,yes,https://www.facebook.com/upfromit/
+112771635403045,ManBookerPrize,"The Man Booker Prize","Nonprofit Organization",0.05,64123,343,no,https://www.facebook.com/ManBookerPrize/
+104042452981815,AARPBlackCommunity,"AARP Black Community","Nonprofit Organization",0.16,376970,4097,no,https://www.facebook.com/AARPBlackCommunity/
+144525618973819,,"""If You Don't Know - Now You Know!""",Artist,0.06,2845,163,yes,https://www.facebook.com/If-You-Dont-Know-Now-You-Know-144525618973819/
+29756652821,MuhammadAliVerified,"Muhammad Ali",Athlete,0.01,11654507,16665,no,https://www.facebook.com/MuhammadAliVerified/
+86957086779,CivilRightsMemorial,"Civil Rights Memorial","Community Museum",0.04,30441,228,yes,https://www.facebook.com/CivilRightsMemorial/
+170591064699,SPLCenter,"Southern Poverty Law Center","Nonprofit Organization",0.37,1159700,81958,yes,https://www.facebook.com/SPLCenter/
+5281959998,nytimes,"The New York Times",Newspaper,2.28,15548446,1364158,no,https://www.facebook.com/nytimes/
+103729003025453,junotdiaz.writer,"Junot Díaz",Author,0.22,206602,24672,no,https://www.facebook.com/junotdiaz.writer/
+302780048851,KwestaDaKAR,KWESTA,Musician/Band,0.06,1288111,22473,no,https://www.facebook.com/KwestaDaKAR/
+112045175473829,,Emancipation,Interest,0,550,0,no,https://www.facebook.com/pages/Emancipation/112045175473829
+26423400230,theRoot,"The Root","News & Media Website",1.25,1361589,350191,no,https://www.facebook.com/theRoot/
+317641006820,,"International Slavery Museum","Landmark & Historical Place",0.03,6256,95,yes,https://www.facebook.com/International-Slavery-Museum-317641006820/
+744369115588346,SarahPaulsonIta,"Sarah Paulson » Italia",Artist,0.02,8428,163,yes,https://www.facebook.com/SarahPaulsonIta/
+455916877869958,anginhajoliepitt,"Angelina Jolie Fãn's",Artist,0,23227,15,yes,https://www.facebook.com/anginhajoliepitt/
+8833934122,FreedomCenter,"National Underground Railroad Freedom Center","History Museum",0.05,52438,592,yes,https://www.facebook.com/FreedomCenter/
+244076745771854,BooksAndMovies29,"Books and Movies",Community,0,42284,19,yes,https://www.facebook.com/BooksAndMovies29/
+173294542859243,12YearsASlave.lefilm,"12 Years a Slave",Movie,0,4851,3,yes,https://www.facebook.com/12YearsASlave.lefilm/
+1385364245059548,,"12 years a slave - 20 Minutes doit présenter ses excuses",Community,0,4989,1,yes,https://www.facebook.com/12-years-a-slave-20-Minutes-doit-présenter-ses-excuses-1385364245059548/
+585324121516018,IAmCumberbatchedByBen,"I Am Cumberbatched",Artist,0,24121,27,yes,https://www.facebook.com/IAmCumberbatchedByBen/
+110678659137329,CumberbatchEnEspanol,"Benedict Cumberbatch México",Actor,0.21,15098,823,yes,https://www.facebook.com/CumberbatchEnEspanol/
+282188305219511,UnAmourDeBritishBenedictCumberbatch,"Un amour de British / Benedict Cumberbatch",Artist,0.26,19953,494,yes,https://www.facebook.com/UnAmourDeBritishBenedictCumberbatch/
+5991693871,TheWire,"The Wire","TV Show",0,1833690,1779,yes,https://www.facebook.com/TheWire/
+50032326453,studiomuseum,"The Studio Museum in Harlem","Art Museum",0.01,37755,42,yes,https://www.facebook.com/studiomuseum/
+13406870078,SchomburgCenter,"Schomburg Center for Research in Black Culture, New York Public Library","Educational Research Center",0.05,59952,906,no,https://www.facebook.com/SchomburgCenter/
+59615168497,bookexpoamerica,BookExpo,Product/Service,0.01,31609,174,no,https://www.facebook.com/bookexpoamerica/
+287419001041,nationalblackbookfestival,"National Black Book Festival",Event,0.06,83524,1311,yes,https://www.facebook.com/nationalblackbookfestival/
+144633183100,abwhtruth,"Association of Black Women Historians","Nonprofit Organization",0.01,6458,12,yes,https://www.facebook.com/abwhtruth/
+133137523396155,,"Black Issues Book Review","Local Business",0,143,0,no,https://www.facebook.com/pages/Black-Issues-Book-Review/133137523396155
+135731303140313,,"Ntozake Shange",Author,0,4095,5,yes,https://www.facebook.com/Ntozake-Shange-135731303140313/
+336027695470,,"The Gwendolyn Brooks Center for Black Literature and Creative Writing","Community Service",0,2421,1,no,https://www.facebook.com/The-Gwendolyn-Brooks-Center-for-Black-Literature-and-Creative-Writing-336027695470/
+111125715704496,BlackArtInAmerica,"Black Art In America","Art Gallery",0.28,100157,8703,yes,https://www.facebook.com/BlackArtInAmerica/
+96020537891,nmandela,"Mandela Day","Nonprofit Organization",0,59060,41,yes,https://www.facebook.com/nmandela/
+481647515253545,MandelaMovie,"Mandela: Long Walk To Freedom",Movie,0,44155,23,yes,https://www.facebook.com/MandelaMovie/
+22433917219,oprahwinfrey,"Oprah Winfrey","Public Figure",0.02,12102054,54273,no,https://www.facebook.com/oprahwinfrey/
+9705514943,oprahmagazine,"O, The Oprah Magazine",Magazine,0.4,1163398,34225,no,https://www.facebook.com/oprahmagazine/
+10643211755,NPR,NPR,"Broadcasting & Media Production Company",1.56,6299693,965844,no,https://www.facebook.com/NPR/
+129854733703507,amlibraries,"American Libraries Magazine",Magazine,0.06,14297,404,yes,https://www.facebook.com/amlibraries/
+146670405373114,ALA.Booklist,Booklist,"News & Media Website",0.05,12362,147,yes,https://www.facebook.com/ALA.Booklist/
+116866831666098,CBCBook,"The Children's Book Council",Bookstore,0.03,18363,69,yes,https://www.facebook.com/CBCBook/
+33192104484,NationalEndowmentfortheArts,"National Endowment for the Arts","Government Organization",0.14,130523,2630,no,https://www.facebook.com/NationalEndowmentfortheArts/
+145263892212799,NESLAlibrarians,"New England School Library Association",Education,0,334,13,yes,https://www.facebook.com/NESLAlibrarians/
+19340216326,TheHornBook,"The Horn Book",Magazine,0.12,10534,114,no,https://www.facebook.com/TheHornBook/
+146730648688954,4CSLA,"California School Library Association","Nonprofit Organization",0.01,807,1,yes,https://www.facebook.com/4CSLA/
+7866629572,ReadingIsFundamental,"Reading Is Fundamental (RIF)","Nonprofit Organization",0.04,129267,867,no,https://www.facebook.com/ReadingIsFundamental/
+6150859770,AmericanLibraryAssociation,"American Library Association",Library,0.14,190396,1182,yes,https://www.facebook.com/AmericanLibraryAssociation/
+224564015619,pla.org,"Public Library Association (PLA)","Government Organization",0.03,15351,222,no,https://www.facebook.com/pla.org/
+21557622350,nypl,"NYPL The New York Public Library",Library,0.1,277902,1518,yes,https://www.facebook.com/nypl/
+401331589946311,HarrietBeecherStoweAuthor,"Harriet Beecher Stowe",Writer,0,76487,59,yes,https://www.facebook.com/HarrietBeecherStoweAuthor/
+106194799410773,,"Uncle Tom's Cabin","Local Business",0,73660,0,no,https://www.facebook.com/pages/Uncle-Toms-Cabin/106194799410773
+106526239383459,,"Roots (novel)","Local Business",0,107395,0,no,https://www.facebook.com/pages/Roots-novel/106526239383459
+105540659478338,,"Incidents in the Life of a Slave Girl",Book,0,4842,0,yes,https://www.facebook.com/pages/Incidents-in-the-Life-of-a-Slave-Girl/105540659478338
+110365806387,,"Alice Walker",Author,0,28104,35,yes,https://www.facebook.com/Alice-Walker-110365806387/
+357896941908,aalbcfanpage,"AALBC.com (The African American Literature Book Club)",Bookstore,0.01,21302,209,yes,https://www.facebook.com/aalbcfanpage/
+318668727975,indigenouspeoplesissues,"Indigenous Peoples Issues and Resources","Society & Culture Website",0,166529,546,yes,https://www.facebook.com/indigenouspeoplesissues/
+191587470858951,alicewalkerfilm,"Alice Walker Film",Movie,0,5427,6,yes,https://www.facebook.com/alicewalkerfilm/
+109054279112401,,"African-American Civil Rights Movement (1955–68)","Local Business",0,3157,0,no,https://www.facebook.com/pages/African-American-Civil-Rights-Movement-195568/109054279112401
+111886665494619,,"Frederick Douglass","Public School",0,32400,0,no,https://www.facebook.com/pages/Frederick-Douglass/111886665494619
+355489517846331,GraymalkinMedia,"Graymalkin Media","Media/News Company",0.01,415,1,yes,https://www.facebook.com/GraymalkinMedia/
+140704295941411,,"86th Academy Awards",Interest,0,21809,0,no,https://www.facebook.com/pages/86th-Academy-Awards/140704295941411
+105960549434629,,"Brad Pitt",Producer,0,3524787,0,no,https://www.facebook.com/pages/Brad-Pitt/105960549434629
+135859346445981,,"Solomon Northup","Public Figure",0,3134,0,no,https://www.facebook.com/pages/Solomon-Northup/135859346445981
+183575981695511,steverodneymcqueen,"Steve McQueen",Artist,0,29833,19,yes,https://www.facebook.com/steverodneymcqueen/
+270386443558,MichaelFassbenderOnline,"Michael Fassbender Online",Actor,0.04,656831,5134,no,https://www.facebook.com/MichaelFassbenderOnline/
+104055842964650,,"Chiwetel Ejiofor",Interest,0,28959,0,no,https://www.facebook.com/pages/Chiwetel-Ejiofor/104055842964650
+394278667320706,LupitaNyongo,"Lupita Nyong'o",Artist,0.03,3171313,10122,no,https://www.facebook.com/LupitaNyongo/
+227224824044154,12YearsASlave,"12 Years a Slave",Movie,0,836766,542,yes,https://www.facebook.com/12YearsASlave/
+edgedef>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN
+234899693363267,171691566268820,true
+234899693363267,103144683131942,true
+234899693363267,146054782115958,true
+234899693363267,509444635896352,true
+234899693363267,122860367757540,true
+234899693363267,1666948206861500,true
+234899693363267,91899228932,true
+234899693363267,291979759818,true
+234899693363267,42324160403,true
+234899693363267,14172074966,true
+234899693363267,198411110196040,true
+234899693363267,359874484050697,true
+234899693363267,167290796662123,true
+234899693363267,152028411049,true
+234899693363267,458553937537912,true
+234899693363267,249063998455085,true
+234899693363267,661016237307124,true
+234899693363267,666067886770001,true
+234899693363267,10764587274,true
+234899693363267,515929695229834,true
+234899693363267,112771635403045,true
+234899693363267,104042452981815,true
+234899693363267,144525618973819,true
+234899693363267,29756652821,true
+234899693363267,86957086779,true
+234899693363267,170591064699,true
+234899693363267,5281959998,true
+234899693363267,103729003025453,true
+234899693363267,302780048851,true
+234899693363267,112045175473829,true
+234899693363267,26423400230,true
+234899693363267,317641006820,true
+234899693363267,744369115588346,true
+234899693363267,455916877869958,true
+234899693363267,8833934122,true
+234899693363267,244076745771854,true
+234899693363267,173294542859243,true
+234899693363267,1385364245059548,true
+234899693363267,585324121516018,true
+234899693363267,110678659137329,true
+234899693363267,282188305219511,true
+234899693363267,5991693871,true
+234899693363267,50032326453,true
+234899693363267,13406870078,true
+234899693363267,59615168497,true
+234899693363267,287419001041,true
+234899693363267,144633183100,true
+234899693363267,133137523396155,true
+234899693363267,135731303140313,true
+234899693363267,336027695470,true
+234899693363267,111125715704496,true
+234899693363267,96020537891,true
+234899693363267,481647515253545,true
+234899693363267,22433917219,true
+234899693363267,9705514943,true
+234899693363267,10643211755,true
+234899693363267,129854733703507,true
+234899693363267,146670405373114,true
+234899693363267,116866831666098,true
+234899693363267,33192104484,true
+234899693363267,145263892212799,true
+234899693363267,19340216326,true
+234899693363267,146730648688954,true
+234899693363267,7866629572,true
+234899693363267,6150859770,true
+234899693363267,224564015619,true
+234899693363267,21557622350,true
+234899693363267,401331589946311,true
+234899693363267,106194799410773,true
+234899693363267,106526239383459,true
+234899693363267,105540659478338,true
+234899693363267,110365806387,true
+234899693363267,357896941908,true
+234899693363267,318668727975,true
+234899693363267,191587470858951,true
+234899693363267,109054279112401,true
+234899693363267,111886665494619,true
+234899693363267,355489517846331,true
+234899693363267,140704295941411,true
+234899693363267,105960549434629,true
+234899693363267,135859346445981,true
+234899693363267,183575981695511,true
+234899693363267,270386443558,true
+234899693363267,104055842964650,true
+234899693363267,394278667320706,true
+234899693363267,227224824044154,true
+103144683131942,146054782115958,true
+146054782115958,103144683131942,true
+122860367757540,33192104484,true
+122860367757540,5281959998,true
+122860367757540,22433917219,true
+1666948206861500,29756652821,true
+91899228932,8833934122,true
+42324160403,5991693871,true
+198411110196040,291979759818,true
+198411110196040,14172074966,true
+359874484050697,661016237307124,true
+359874484050697,198411110196040,true
+359874484050697,14172074966,true
+359874484050697,170591064699,true
+167290796662123,13406870078,true
+167290796662123,21557622350,true
+152028411049,13406870078,true
+458553937537912,227224824044154,true
+458553937537912,8833934122,true
+458553937537912,317641006820,true
+458553937537912,13406870078,true
+249063998455085,14172074966,true
+249063998455085,50032326453,true
+249063998455085,13406870078,true
+104042452981815,10643211755,true
+104042452981815,29756652821,true
+104042452981815,291979759818,true
+104042452981815,152028411049,true
+104042452981815,106526239383459,true
+104042452981815,26423400230,true
+104042452981815,481647515253545,true
+104042452981815,42324160403,true
+104042452981815,394278667320706,true
+104042452981815,105960549434629,true
+104042452981815,104055842964650,true
+104042452981815,227224824044154,true
+104042452981815,91899228932,true
+86957086779,109054279112401,true
+86957086779,170591064699,true
+170591064699,86957086779,true
+26423400230,9705514943,true
+26423400230,10764587274,true
+26423400230,10643211755,true
+26423400230,14172074966,true
+26423400230,5281959998,true
+26423400230,5991693871,true
+317641006820,234899693363267,true
+455916877869958,234899693363267,true
+455916877869958,105960549434629,true
+8833934122,10643211755,true
+8833934122,144633183100,true
+8833934122,26423400230,true
+8833934122,13406870078,true
+8833934122,394278667320706,true
+8833934122,227224824044154,true
+8833934122,22433917219,true
+282188305219511,585324121516018,true
+50032326453,111125715704496,true
+50032326453,5281959998,true
+50032326453,13406870078,true
+13406870078,10764587274,true
+13406870078,666067886770001,true
+13406870078,21557622350,true
+13406870078,661016237307124,true
+13406870078,249063998455085,true
+13406870078,458553937537912,true
+13406870078,167290796662123,true
+13406870078,152028411049,true
+59615168497,10643211755,true
+59615168497,357896941908,true
+59615168497,21557622350,true
+287419001041,59615168497,true
+287419001041,357896941908,true
+336027695470,26423400230,true
+336027695470,13406870078,true
+336027695470,111886665494619,true
+22433917219,9705514943,true
+9705514943,22433917219,true
+129854733703507,5281959998,true
+129854733703507,6150859770,true
+129854733703507,224564015619,true
+129854733703507,21557622350,true
+146670405373114,224564015619,true
+146670405373114,116866831666098,true
+146670405373114,33192104484,true
+146670405373114,5281959998,true
+146670405373114,19340216326,true
+146670405373114,146730648688954,true
+146670405373114,7866629572,true
+146670405373114,21557622350,true
+146670405373114,112771635403045,true
+146670405373114,6150859770,true
+146670405373114,129854733703507,true
+116866831666098,5281959998,true
+116866831666098,7866629572,true
+116866831666098,6150859770,true
+116866831666098,19340216326,true
+116866831666098,59615168497,true
+116866831666098,21557622350,true
+33192104484,10643211755,true
+19340216326,116866831666098,true
+146730648688954,6150859770,true
+7866629572,5281959998,true
+7866629572,116866831666098,true
+6150859770,21557622350,true
+6150859770,7866629572,true
+6150859770,146730648688954,true
+6150859770,19340216326,true
+6150859770,145263892212799,true
+6150859770,33192104484,true
+6150859770,116866831666098,true
+6150859770,224564015619,true
+6150859770,129854733703507,true
+6150859770,146670405373114,true
+224564015619,21557622350,true
+224564015619,6150859770,true
+224564015619,129854733703507,true
+21557622350,167290796662123,true
+21557622350,13406870078,true
+401331589946311,106194799410773,true
+110365806387,191587470858951,true
+357896941908,111125715704496,true
+357896941908,336027695470,true
+357896941908,135731303140313,true
+357896941908,133137523396155,true
+357896941908,144633183100,true
+357896941908,287419001041,true
+357896941908,59615168497,true
+357896941908,13406870078,true
+357896941908,50032326453,true
+357896941908,26423400230,true
+357896941908,5991693871,true
+357896941908,22433917219,true
+357896941908,10643211755,true
+191587470858951,357896941908,true
+191587470858951,26423400230,true
+191587470858951,110365806387,true
+355489517846331,59615168497,true
+355489517846331,1666948206861500,true
+355489517846331,661016237307124,true
+355489517846331,21557622350,true
+355489517846331,146670405373114,true
+355489517846331,19340216326,true
+355489517846331,146730648688954,true
+355489517846331,7866629572,true
+355489517846331,129854733703507,true
+355489517846331,6150859770,true
+355489517846331,234899693363267,true
+183575981695511,394278667320706,true
+183575981695511,227224824044154,true
+183575981695511,291979759818,true
+183575981695511,270386443558,true
+270386443558,183575981695511,true
+270386443558,394278667320706,true
+270386443558,227224824044154,true
+270386443558,5281959998,true
+394278667320706,227224824044154,true
+394278667320706,183575981695511,true
